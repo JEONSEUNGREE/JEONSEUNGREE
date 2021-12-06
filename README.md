@@ -1,5 +1,5 @@
 ###
-![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSEUNGREE&theme=tokyonight&show_icons=true)
 
 
 <!--
