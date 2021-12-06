@@ -16,14 +16,13 @@
 </br>
 
 <h4> Languages and Tools🏁</h4>
-</br>
 
 ###
 ![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSEUNGREE&theme=default&show_icons=true&hide=stars,issues&line_height=30&card_width=400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONSEUNGREE&layout=compact&exclude_repo=JEONSEUNGREE.github.io,TECH&card_width=280)](https://github.com/JEONSEUNGREE/github-readme-stats)
 
-<h4>Project Repositories🚀</h4>
 </br>
+<h4>Project Repositories🚀</h4>
 
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=project_1)](https://github.com/JEONSEUNGREE/project_1)
