@@ -1,7 +1,7 @@
 ###
 ![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSEUNGREE&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONSEUNGREE&layout=compact&exclude_repo=JEONSEUNGREE.github.io
-&exclude_repo=myBlog)](https://github.com/JEONSEUNGREE/github-readme-stats)
+,exclude_repo=myBlog)](https://github.com/JEONSEUNGREE/github-readme-stats)
 <!--
 **JEONSEUNGREE/JEONSEUNGREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
