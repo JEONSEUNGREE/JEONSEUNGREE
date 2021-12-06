@@ -15,7 +15,7 @@
 </br>
 </br>
 
-<h4> Languages and Tools🏁</h4>
+<h4> Github and Languages🏁</h4>
 
 ###
 ![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSEUNGREE&theme=default&show_icons=true&hide=stars,issues&line_height=30&card_width=400)
