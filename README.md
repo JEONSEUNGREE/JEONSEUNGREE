@@ -22,8 +22,8 @@
 Project Repositories
 
 ###
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=project_1)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=URUNNER)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=project_1)](https://github.com/JEONSEUNGREE/project_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=URUNNER)](https://github.com/JEONSEUNGREE/URUNNER)
 
 <!--
 **JEONSEUNGREE/JEONSEUNGREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
