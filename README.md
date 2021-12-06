@@ -1,4 +1,6 @@
-STACK
+<h3 align="center">TECH STACK</h3>
+</br>
+<p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -8,7 +10,7 @@ STACK
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-
+</p>
 ![JEONSEUNGREE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONSEUNGREE&theme=default&show_icons=true&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONSEUNGREE&layout=compact&exclude_repo=JEONSEUNGREE.github.io,TECH)](https://github.com/JEONSEUNGREE/github-readme-stats)
 
