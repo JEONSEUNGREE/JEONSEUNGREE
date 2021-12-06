@@ -20,6 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONSEUNGREE&layout=compact&exclude_repo=JEONSEUNGREE.github.io,TECH&card_width=280)](https://github.com/JEONSEUNGREE/github-readme-stats)
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=project_1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JEONSEUNGREE&repo=URUNNER)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JEONSEUNGREE/JEONSEUNGREE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
