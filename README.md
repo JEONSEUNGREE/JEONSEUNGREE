@@ -1,1 +1,1 @@
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg, metrics.classic.svg)
+![Metrics](/github-metrics.svg)
