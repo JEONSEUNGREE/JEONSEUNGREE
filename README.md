@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+
 <table>
   <tbody>
     <tr>
