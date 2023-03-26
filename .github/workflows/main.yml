@@ -28,5 +28,7 @@ jobs:
           plugin_achievements_threshold: X
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
           token: ${{ secrets.METRICS_TOKEN }}
           
