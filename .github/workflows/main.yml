@@ -30,5 +30,8 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_repositories: yes
           plugin_repositories_pinned: 4
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: icons
           token: ${{ secrets.METRICS_TOKEN }}
           
