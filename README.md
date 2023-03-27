@@ -3,10 +3,10 @@
   <tbody>
     <tr>
     <td align="center">
-      <img style="width: 256px;" src="github-metrics-left.svg" alt="" style="max-width: 100%;">
+      <img style="width: 256px;" src="github-metrics-left.svg" alt="" />
     </td>
     <td align="center">
-      <img style="width: 256px;" src="https://github.com/JEONSEUNGREE/JEONSEUNGREE/blob/main/github-metrics.svg" alt="" style="max-width: 100%;">
+      <img style="width: 256px;" src="https://github.com/JEONSEUNGREE/JEONSEUNGREE/blob/main/github-metrics.svg" alt=""/>
     </td>
     </tr>
   </tbody>
